@@ -1,0 +1,1 @@
+rootProject.name="PasterDream_plugin"
